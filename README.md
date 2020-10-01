@@ -3,6 +3,6 @@ I'm a 16 year old web developer from Illinois. Currently I am primarily working 
 
 I have experience in HTML, CSS, JS (Node & Browser), Python, and C# (Primarily Unity)
 
-You can find me on [Twitter](https://twitter.com/jack__merrill), Discord (AmusedGrape#0001), or [My Website](https://jackmerrill.com).
+You can find me on [Twitter](https://twitter.com/jack__merrill), [Discord](https://discord.com/users/401792058970603539), or [My Website](https://jackmerrill.com).
 
 Thanks for stopping by!
