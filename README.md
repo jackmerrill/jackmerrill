@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/jack__merrill" target="blank"><img src="https://img.shields.io/twitter/follow/jack__merrill?logo=twitter&style=for-the-badge" alt="jack__merrill" /></a> </p>
 
-- 🔭 I’m currently working on [Nyxx](https://github.com/jackmerrill/Nyxx)
+- 🔭 I’m currently working on [Nyxx](https://github.com/NyxxDiscordBot/Nyxx)
 
 - 🌱 I’m currently learning **Discord-Akairo**
 
